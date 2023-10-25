@@ -3,7 +3,7 @@
 
 - I'm currently in a phase of exploring different career paths that align with my interests and skills
 
-- 🌱 I’m learning **Backend developemnt with Django** and **AI with Python** cause I can't choose between them
+- 🌱 I’m learning **Backend developemnt with Django**
 
 - I have some knowledge **in Mobile app dev with Flutter**
 
